@@ -25,7 +25,7 @@ HOW TO USE:
 OPTIONAL:
 1. if your ventilation system uses an LED to indicate wheter it is turned on or off, the pin of said LED that changes potential relative to ground can be soldered ont the LED1 pad for feedback (you might need to change the values for on and off in the software)
 
-Crdeits:
+Credits:
 ESP8266 schematic symbol, footprint and 3d model by J.Dunmire 
 (though I slightly modified the silkscreen on the footprint as iw was overlapping the pads)
 buck converter schematic symbol, and footprint were done by me, 3d model by Wilfredo B. de los Reyes I (downloaded from grabcad.com)
