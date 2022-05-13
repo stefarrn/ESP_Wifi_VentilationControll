@@ -9,7 +9,7 @@ required tools:
 2. hotplate. heatgun or reflow oven for soldering the surface mount components
 3. solder paste and tweezers for soldering surface mount components (ordering a stencil together with the PCBs is highly recommended)
 5. computer with USB cable and USB to FTDI adapter or frog pin programmer for the ESP8266
-6. Phone or tablet cabaple of running the Arduino IOT cloud app
+6. Phone or tablet cabaple of running the Arduino IoT remote app
 7. some prototyping cables for programming
 8. multimeter or oscilocope for troubleshooting
 
@@ -19,7 +19,7 @@ HOW TO USE:
 3. flash the ESP8266 module over the Pinheader with the help of a USB to FTDI adapter (if you flashed your module before installing it this step can be skipped)
 4. solder all the buttons onto pads A1 to D2, where 1 corresponds to the positive and 2 to the negative of the button
 5. solder powersupply cables to the VCC and GND pads on the PCB
-6. download the Arduino IOT cloud app onto your device and log in with the account your ESP is connecting to (this can be done with multiple devices such that everyone can use the ventilation controller)
+6. download the Arduino IoT remote app onto your device and log in with the account your ESP is connecting to (this can be done with multiple devices such that everyone can use the ventilation controller)
 7. once all this is done and working you can leanback and enjoy :)
 
 OPTIONAL:
