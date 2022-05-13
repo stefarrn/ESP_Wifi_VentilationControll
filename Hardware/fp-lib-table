@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Buck_Converter")(type "KiCad")(uri "C:/Users/stefarn/Documents/GitHub/ESP_Wifi_ventilationControll/lib/Buck_Converter.pretty")(options "")(descr ""))
+  (lib (name "ESP8266")(type "KiCad")(uri "${KIPRJMOD}/lib/ESP8266.pretty")(options "")(descr ""))
+)

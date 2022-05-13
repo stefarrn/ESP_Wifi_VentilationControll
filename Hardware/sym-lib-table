@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "Buck_Converter")(type "KiCad")(uri "${KIPRJMOD}/lib/Buck_Converter.kicad_sym")(options "")(descr ""))
+  (lib (name "optocoupler")(type "KiCad")(uri "${KIPRJMOD}/lib/optocoupler.kicad_sym")(options "")(descr ""))
+  (lib (name "ESP8266")(type "Legacy")(uri "${KIPRJMOD}/lib/ESP8266.pretty/ESP8266.lib")(options "")(descr ""))
+)
