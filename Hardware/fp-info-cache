@@ -1,4 +1,4 @@
-17353615154799225
+17365184301315982
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -314,6 +314,20 @@ battery CR-3032 coin cell vertical
 0
 2
 2
+Buck_Converter
+LM2596
+
+
+0
+4
+4
+Buck_Converter
+XD-45 MH mini
+
+
+0
+4
+4
 Button_Switch_Keyboard
 SW_Cherry_MX_1.00u_PCB
 Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
@@ -67045,6 +67059,34 @@ rotary encoder
 0
 5
 4
+SMD power LED
+5730 0.5W LED
+
+
+0
+3
+2
+SamacSys_Parts
+NE555DR
+D (R-PDSO-G8)
+Integrated Circuit
+0
+8
+8
+SamacSys_Parts
+SOIC127P790X216-8N
+8-Pin SOIC 208-mil (Package Code S)_1
+Integrated Circuit
+0
+8
+8
+SamacSys_Parts
+SOP65P640X120-20N
+PW (R-PDSO-G20)
+Integrated Circuit
+0
+20
+20
 Sensor
 Aosong_DHT11_5.5x12.0_P2.54mm
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf
@@ -73975,3 +74017,10 @@ varistor SIOV
 0
 2
 2
+wire
+small_wire
+
+
+0
+1
+1
