@@ -1893,7 +1893,7 @@
   (gr_arc (start 125 80.75) (mid 125.366117 79.866117) (end 126.25 79.5) (layer "Edge.Cuts") (width 0.1) (tstamp d7185d8f-f1ed-43c8-be92-ad06fe24cde5))
   (gr_arc (start 126.25 116.5) (mid 125.366117 116.133883) (end 125 115.25) (layer "Edge.Cuts") (width 0.1) (tstamp e5f02ac3-2d84-4efb-8d56-c4f11be6d739))
   (gr_line (start 177 80.75) (end 177 115.25) (layer "Edge.Cuts") (width 0.1) (tstamp f94a7acd-f8d8-4c7a-a171-7541cd3a40f8))
-  (gr_text "Wifi ventilation controll V1.0\ndesigned by: stefarn" (at 151 84) (layer "B.SilkS") (tstamp 561e312a-e6b2-4447-b814-a0ce191eacd1)
+  (gr_text "Wifi ventilation controll V2.0\ndesigned by: stefarn" (at 151 84) (layer "B.SilkS") (tstamp 561e312a-e6b2-4447-b814-a0ce191eacd1)
     (effects (font (size 1 1) (thickness 0.125)) (justify mirror))
   )
   (gr_text "GND   VCC" (at 130 110.75) (layer "F.SilkS") (tstamp 06bccb0b-2f4b-4092-834b-3871294199da)
