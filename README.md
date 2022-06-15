@@ -2,6 +2,10 @@
 
 STILL WORK IN PROGRESS!
 
+UPDATE:
+after assembling the first prototype and making it work, I have applied all necessary changes to the designs and V2.0 should work straight away
+
+
 modification Board in order to controll older ventilation systems over Wifi.
 
 required tools:
