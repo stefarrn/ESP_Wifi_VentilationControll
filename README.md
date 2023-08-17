@@ -1,10 +1,8 @@
 # ESP_Wifi_VentilationControll
-
-![20220614_170043](https://github.com/stefarrn/ESP_Wifi_VentilationControll/assets/80580541/4f2377e1-1869-436b-977b-5588890b1e19)
-
 UPDATE:
 after assembling the first prototype and making it work, I have applied all necessary changes to the designs and V2.0 should work straight away
 
+![20220614_170043](https://github.com/stefarrn/ESP_Wifi_VentilationControll/assets/80580541/4f2377e1-1869-436b-977b-5588890b1e19)
 
 modification Board in order to controll older ventilation systems over Wifi.
 
