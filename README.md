@@ -1,6 +1,6 @@
 # ESP_Wifi_VentilationControll
 
-STILL WORK IN PROGRESS!
+![20220614_170043](https://github.com/stefarrn/ESP_Wifi_VentilationControll/assets/80580541/4f2377e1-1869-436b-977b-5588890b1e19)
 
 UPDATE:
 after assembling the first prototype and making it work, I have applied all necessary changes to the designs and V2.0 should work straight away
@@ -35,4 +35,3 @@ ESP8266 schematic symbol, footprint and 3d model by J.Dunmire
 (though I slightly modified the silkscreen on the footprint as iw was overlapping the pads)
 buck converter schematic symbol, and footprint were done by me, 3d model by Wilfredo B. de los Reyes I (downloaded from grabcad.com)
 schematic and PCB design by me
-![20220614_170043](https://github.com/stefarrn/ESP_Wifi_VentilationControll/assets/80580541/4f2377e1-1869-436b-977b-5588890b1e19)
